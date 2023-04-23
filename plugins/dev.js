@@ -12,14 +12,3 @@ terminal1.stderr.on('data', function (data) {
     console.log('完成: ' + data);
 });
 
-
-
-// let cmd1 = "npm run serve"
-// const terminal2 = spawn(cmd1, { cwd: _cwd})
-// terminal2.stdout.on('data', function (data) {
-//     console.log('输出: ' + data);
-// });
-
-// terminal2.stderr.on('data', function (data) {
-//     console.log('完成: ' + data);
-// });
