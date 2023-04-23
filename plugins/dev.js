@@ -11,4 +11,3 @@ terminal1.stdout.on('data', function (data) {
 terminal1.stderr.on('data', function (data) {
     console.log('完成: ' + data);
 });
-
