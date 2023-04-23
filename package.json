@@ -55,5 +55,10 @@
       "npm run serve"
     ],
     "extensions": "js,png,svg,gif,jpeg,css,vue"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run remove-lib"  
+    }
   }
 }
