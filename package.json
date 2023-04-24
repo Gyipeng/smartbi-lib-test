@@ -16,11 +16,10 @@
     "core-js": "^3.6.5",
     "nodemon": "^2.0.22",
     "shelljs": "^0.8.5",
-    "smartbi-ka-ui": "^0.0.6",
+    "smartbi-ka-ui": "file:.yalc/smartbi-ka-ui",
     "vue": "^2.6.11"
   },
   "devDependencies": {
-    "yalc": "^1.0.0-pre.53",
     "@vue/cli-plugin-babel": "~4.5.13",
     "@vue/cli-plugin-eslint": "~4.5.13",
     "@vue/cli-service": "~4.5.13",
@@ -28,7 +27,8 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
     "husky": "^8.0.3",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.11",
+    "yalc": "^1.0.0-pre.53"
   },
   "eslintConfig": {
     "root": true,

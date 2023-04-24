@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "smartbi-ka-ui": {
+      "signature": "1182a66aa63b3fb674c692ea16106f0c",
+      "file": true,
+      "replaced": "^0.0.6"
+    }
+  }
+}
