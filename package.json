@@ -16,8 +16,8 @@
     "core-js": "^3.6.5",
     "nodemon": "^2.0.22",
     "shelljs": "^0.8.5",
-    "smartbi-ka-ui": "file:.yalc/smartbi-ka-ui",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "smartbi-ka-ui": "git+https://github.com/Gyipeng/sk-ui.git#master"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.13",
